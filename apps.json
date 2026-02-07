@@ -1,1 +1,1 @@
-{"apps":[{"name":"KravaSigner","version":"5.0.2_unsigned","repository":"https://github.com/Zayedii/KravaSigner","description":"A description of KravaSigner app.","release_date":"2026-02-07"}]}
+{"identifier":"com.zayedii.apps","name":"Zayedii Apps","apps":[{"name":"eSign","bundleIdentifier":"com.esign","version":"5.0.2","versionDate":"2026-02-07T00:00:00Z","downloadURL":"https://raw.githubusercontent.com/Zayedii/Apps/main/esign_5.0.2_unsigned.ipa","size":0,"permissions":[],"beta":false,"localizedDescription":"eSign Application v5.0.2"}]}
