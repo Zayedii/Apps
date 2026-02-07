@@ -1,1 +1,10 @@
-{\n  "name": "Zayedii Apps",\n  "identifier": "com.zayedii.apps",\n  "sourceURL": "https://raw.githubusercontent.com/Zayedii/Apps/main/Data.json",\n  "apps": [\n    {\n      "name": "eSign",\n      "bundleIdentifier": "com.esign",\n      "version": "5.0.2",\n      "versionDate": "2026-02-07",\n      "size": 7522792,\n      "downloadURL": "https://raw.githubusercontent.com/Zayedii/Apps/main/esign_5.0.2_unsigned.ipa",\n      "developerName": "Zayedii",\n      "localizedDescription": "eSign Application - Sign documents digitally",\n      "iconURL": ""\n    }\n  ]\n}
+{
+  "apps": [
+    {
+      "name": "Test",
+      "version": "1.0.0",
+      "bundleID": "com.example.app1",
+      "downloadURL": "https://raw.githubusercontent.com/Zayedii/Apps/main/apps/esign_5.0.2_unsigned.ipa"
+    }
+  ]
+}
