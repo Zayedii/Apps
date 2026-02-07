@@ -1,10 +1,1 @@
-{
-  "apps": [
-    {
-      "name": "Test",
-      "version": "1.0.0",
-      "bundleID": "com.example.app1",
-      "downloadURL": "https://raw.githubusercontent.com/Zayedii/Apps/main/apps/app1.ipa"
-    }
-  ]
-}
+{"apps":[{"name":"eSign","version":"5.0.2","bundleID":"com.esign","downloadURL":"https://raw.githubusercontent.com/Zayedii/Apps/main/esign_5.0.2_unsigned.ipa"}]}
